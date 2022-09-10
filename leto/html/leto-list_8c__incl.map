@@ -1,8 +1,0 @@
-<map id="leto&#45;list/leto&#45;list.c" name="leto&#45;list/leto&#45;list.c">
-<area shape="rect" id="node1" title="The main file of the leto&#45;list library, which implements singly linked lists and operations with them..." alt="" coords="63,5,201,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,72,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="97,80,167,107"/>
-<area shape="rect" id="node4" href="$leto-list_8h.html" title="Header file of the library of singly linked lists leto&#45;list." alt="" coords="191,80,275,107"/>
-<area shape="rect" id="node5" href="$leto-type_8h.html" title="Miniature Type Library." alt="" coords="64,162,232,189"/>
-<area shape="rect" id="node6" href="$leto-error_8h.html" title="The file contains functions and macros for handling errors and warnings." alt="" coords="257,155,381,196"/>
-</map>
