@@ -1,0 +1,14 @@
+<map id="leto&#45;type/leto&#45;type.h" name="leto&#45;type/leto&#45;type.h">
+<area shape="rect" id="node1" title="Miniature Type Library." alt="" coords="486,5,642,32"/>
+<area shape="rect" id="node2" href="$leto-list_8h.html" title="Header file of the library of singly linked lists leto&#45;list." alt="" coords="312,80,451,107"/>
+<area shape="rect" id="node4" href="$leto-list_2test_8c.html" title="File contains tests for leto&#45;list library." alt="" coords="5,155,117,181"/>
+<area shape="rect" id="node5" href="$leto-utsf_8h.html" title="This file provides an interface to the UTSF library." alt="" coords="141,155,288,181"/>
+<area shape="rect" id="node7" href="$leto-utsf_2test_8c_source.html" title=" " alt="" coords="365,229,483,256"/>
+<area shape="rect" id="node8" href="$leto_8h.html" title="General header for the library." alt="" coords="509,229,568,256"/>
+<area shape="rect" id="node9" href="$leto-error_8c.html" title="leto&#45;error library realization" alt="" coords="830,80,989,107"/>
+<area shape="rect" id="node10" href="$leto-so_8h.html" title="leto&#45;so library header file" alt="" coords="627,80,755,107"/>
+<area shape="rect" id="node12" href="$leto-so_2test_8c.html" title=" " alt="" coords="829,155,936,181"/>
+<area shape="rect" id="node3" href="$leto-list_8c.html" title="The main file of the leto&#45;list library, which implements singly linked lists and operations with them..." alt="" coords="313,155,450,181"/>
+<area shape="rect" id="node6" href="$leto-utsf_8c.html" title="This file provides an implementation of the UTSF features." alt="" coords="141,229,288,256"/>
+<area shape="rect" id="node11" href="$leto-so_8c.html" title="Library for safe work with dynamic libraries." alt="" coords="627,155,754,181"/>
+</map>
